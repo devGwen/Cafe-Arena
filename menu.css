@@ -133,6 +133,22 @@ nav .menu.open{
     transform: translateX(0);
 }
 
+/* add a scrolling-active selector selector inside nav element using JS to create a white banner */
+
+.scrolling-active{
+   background: white; 
+   box-shadow: 0px 3px 20px rgba(0,0,0, 0.2);
+}
+/*text color change when scrolling down*/
+.scrolling-active nav .menu a
+{
+    color:#313131;
+}
+
+.scrolling-active{
+    height: 4.5em;
+}
+
 
 
 /* store logo */
