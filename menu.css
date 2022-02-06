@@ -449,7 +449,7 @@ nav .menu a:hover::after{
     
 .main-wrapper{
         max-width: 1280px;
-        margin:0 auto;
+        margin:0 25%;
         width:65%;
     }   
     .menu-heading{
