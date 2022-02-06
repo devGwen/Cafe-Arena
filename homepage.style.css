@@ -157,7 +157,7 @@ nav .menu.open{
 }
 
 .scrolling-active{
-    height: 4.5em;
+    height: 5em;
 }
 
 /* store logo */
@@ -561,7 +561,7 @@ nav .menu{
     width:90%;
     position: absolute;
     justify-content:flex-end;
-    top: 2em;
+    top: 1.5em;
     left: 0;
     height: initial;
     background-color: initial;
